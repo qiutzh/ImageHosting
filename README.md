@@ -1,2 +1,2 @@
-# CDN
-CDN for MyBlog
+# ImageHosting
+ImageHosting for MyBlog
